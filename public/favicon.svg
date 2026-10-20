@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E4733" />
+      <stop offset="100%" stop-color="#0E2419" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F2D194" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#AA8222" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#grad)" />
+  <!-- Botanical stylized leaf and star -->
+  <path d="M32 10 C32 10, 42 22, 42 34 C42 43, 36 49, 32 54 C28 49, 22 43, 22 34 C22 22, 32 10, 32 10 Z" fill="#4ADE80" opacity="0.35" />
+  <path d="M32 14 C32 14, 39 24, 39 34 C39 41, 35 46, 32 50 C29 46, 25 41, 25 34 C25 24, 32 14, 32 14 Z" fill="#86EFAC" opacity="0.7" />
+  <path d="M32 18 C32 18, 36 26, 36 34 C36 39, 34 43, 32 46 C30 43, 28 39, 28 34 C28 26, 32 18, 32 18 Z" fill="#FFFFFF" />
+  <circle cx="32" cy="32" r="3" fill="url(#gold)" />
+  <path d="M32 20 L32 44" stroke="url(#gold)" stroke-width="1.5" stroke-linecap="round" />
+</svg>
