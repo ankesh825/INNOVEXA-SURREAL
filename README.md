@@ -1,4 +1,4 @@
-# INNOVEXA × SURREAL TREASURES
+# INNOVEXA × SURREAL TREASURES BIZZNNUVATE EVENT 23/24 OCT 2026
 
 🚀 **[🌐 Visit Live Website](https://innovexa-surreal.vercel.app)**
 
